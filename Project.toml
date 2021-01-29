@@ -1,0 +1,13 @@
+name = "ISOTonality"
+uuid = "795ba10e-e7ab-4f9c-ad77-5223e621fb26"
+authors = ["Duc Phuc Nguyen <ducphuc.nguyen@flinders.edu.au> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
